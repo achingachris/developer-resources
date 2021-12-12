@@ -1,37 +1,30 @@
-# DevC Mombasa: Dev Tech Questions
+# Meta Developer Circle: Mombasa
 
-![banner-image](assets/banner.jpg)
+![group-cover-image](assets/metadevcmsa.jpg)
 
-Weekly practical developer Questions on our [Facebook Group platform](https://www.facebook.com/groups/DevCMombasa), on Thursdays.
+# Developer Resources
 
-[Find all Code Solutions](source/)
+> Open Source pool of resources useful to developers.
 
-# Submissions & Solutions
+## Table of Contents
 
-> All solutions available are from community member contributions on the comment section of each post. (Not all comments may be added as solutions in this repo)
+- Blogs
+- GitHub Repositories
+- YouTube Channels
 
-# Tech Questions
+<!--  -->
 
+## Blogs - Tech Bloggers/Blogs
 
-## Big O Notation - Not Posted
+- [Meta Developer Circle: Mombasa](https://dev.to/devcmombasa)
+- [Chris Ndanyi: chrisdevcode](https://chrisdevcode.hashnode.dev/)
+- [Meta Developer Circle: Nairobi](https://medium.com/devcnairobi)
+- [Joan Ingari](https://dev.to/awinja_j)
 
+## GitHub Repos
 
-## FizzBuzz - Posted
-[Question Post](https://www.facebook.com/groups/DevCMombasa/permalink/1338184826552830/)
+- [React Bootstrap Starter Template](https://github.com/achingachris/react-bootstrap-starter)
 
-**Solutions**
+## Youtube Channels
 
-[JavaScript](source/fizzbuzz/js/submission1.js)
-
-[Python](source/fizzbuzz/python/submission1.py)
-
-## Strings: Reverse - Posted
-
-[Question Post](https://www.facebook.com/groups/DevCMombasa/permalink/1343190189385627/)
-
-
-**Solutions**
-
-[Python](source/strings-reverse/python/sol1.py)
-
-[JavaScript](source/strings-reverse/js/sol1.js)
+- [Traversy Media](https://www.youtube.com/c/TraversyMedia)
