@@ -9,11 +9,13 @@
 ## Table of Contents
 
 - Blogs
+- Development Resources
 - GitHub Repositories
 - YouTube Channels
 - Documentions
 - Development Environments
 - Shell Extension
+- Illustrations
 
 <!--  -->
 
@@ -23,6 +25,12 @@
 - [Chris Ndanyi: chrisdevcode](https://chrisdevcode.hashnode.dev/)
 - [Meta Developer Circle: Nairobi](https://medium.com/devcnairobi)
 - [Joan Ingari's Blog](https://dev.to/awinja_j)
+
+## Development Resources
+
+- [Collection of Test Driven Development Tools](https://github.com/unicodeveloper/awesome-tdd)
+- [Learn TDD](https://github.com/dwyl/learn-tdd)
+-  [Super Tokens - Authentication](https://supertokens.com/)
 
 ## GitHub Repos
 
@@ -46,3 +54,11 @@
 - [Starship rs](https://starship.rs/)
 - [oh-my-zsh](https://ohmyz.sh/)
 - [Fish Shell](https://fishshell.com/)
+
+## Illustrations (Free)
+
+- [Drawkit](https://drawkit.com/)
+- [ubDraw](https://undraw.co/)
+- [ira Designs](https://iradesign.io/)
+- [storyset](https://storyset.com/)
+- [illustrations](https://illlustrations.co/)
