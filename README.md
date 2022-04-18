@@ -1,6 +1,6 @@
 # Meta Developer Circle: Mombasa
 
-![group-cover-image](assets/metadevcmsa.jpg)
+![group-cover-image](assets/metamsa.jpg)
 
 # Developer Resources
 
