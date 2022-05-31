@@ -16,6 +16,8 @@
 - Development Environments
 - Shell Extension
 - Illustrations
+- Developer Communities
+- Open Source Projects
 
 <!--  -->
 
@@ -25,6 +27,7 @@
 - [Chris Ndanyi: chrisdevcode](https://chrisdevcode.hashnode.dev/)
 - [Meta Developer Circle: Nairobi](https://medium.com/devcnairobi)
 - [Joan Ingari's Blog](https://dev.to/awinja_j)
+- [Open Source Community Africa](https://blog.oscafrica.org/)
 
 ## Development Resources
 
@@ -62,3 +65,12 @@
 - [ira Designs](https://iradesign.io/)
 - [storyset](https://storyset.com/)
 - [illustrations](https://illlustrations.co/)
+
+## Developer Communities
+- [React Developers Kenya](https://twitter.com/reactdevske)
+- [Open Source Community Africa - Nairobi](https://twitter.com/osca_nairobi)
+- [Open Source Community Africa](https://oscafrica.org/)
+
+
+## Open Source Projects
+- [React Developers Kenya](https://github.com/reactdeveloperske)
